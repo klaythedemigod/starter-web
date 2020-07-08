@@ -13,3 +13,7 @@ git exemples demo
 ## Deployment
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+2014.git.training

@@ -14,6 +14,10 @@ git exemples demo
 
 Sample website with plenty of files for demos
 
+## How to contribute
+
+please fork this repository AND THEN ISUUE A PULL REQUEST
+
 ## Copyright
 
 2014.git.training

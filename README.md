@@ -21,4 +21,4 @@ please fork this repository AND THEN ISUUE A PULL REQUEST
 
 ## Copyright
 
-2014.git.training
+2014.git.training all rights reserved
